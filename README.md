@@ -16,7 +16,7 @@ letter-spacing: 1px                  //字元間距
 color: red                           //字體和框線顏色同時改變 
 font-family: 微軟正黑體               //可下載google font字體
 font-weight:bold;                    //文字粗細100~900、bold  
-font-size: initial                   //字體設為預設大小，可用px
+font-size: initial                   //字體設為預設大小，可用px單位
 </code></pre>
 ## 1.3 border 邊框樣式：
 <pre><code>
@@ -26,6 +26,6 @@ border-radius: 1px                   //border的邊緣角度
 border-color: red                    //單獨設定border顏色
 box-sizing: border-box               //內縮邊距(不計像素)
 overflow: hidden                     //除物件本體之外的多於區塊皆隱藏內容
-box-shadow: inset X Y 1 color        //inset為向內發展，X軸Y軸為偏移量、模糊程度、背景顏色  
+box-shadow: inset X Y 1px color      //inset為向內發展，X軸Y軸為偏移量、模糊程度、背景顏色  
 </code></pre>
 ## 3.1 無順序的清單
