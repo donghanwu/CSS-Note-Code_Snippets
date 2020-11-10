@@ -11,14 +11,14 @@ vertical-align: middle               //垂直置中
 line-height: 50px                    //與height相等，垂直置中 
 letter-spacing: 1px                  //字元間距 
 </code></pre>
-## 1.2 text 文字樣式：調整文字顏色、形式、大小的寫法
+## 1.2 text 文字樣式：調整文字顏色、字型樣式、字體大小的寫法
 <pre><code>
 color: red                           //字體和框線顏色同時改變 
 font-family: 微軟正黑體               //可下載google font字體
 font-weight:bold;                    //文字粗細100~900、bold  
 font-size: initial                   //字體設為預設大小，可用px單位
 </code></pre>
-## 1.3 border 邊框樣式：
+## 1.3 border 邊框樣式：調整邊框顏色、線條粗細、陰影、隱藏等等
 <pre><code>
 border: solid 1px black              //border基本樣式(solid可改double和dashed)  
 border-left: solid 3px #eee          //畫直線方法           
