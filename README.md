@@ -3,7 +3,18 @@ The code Snippets for CSS will be useful to your project.
 You can Copy the Snippets code to any where. <br />
 Author：Donghan Wu
 <br />
-## 1.1 text 文字對齊：調整文字排版的常用寫法
+# 目錄
+
+
+- 無序列表1
+    - 1.1 [text-文字對齊](#11-text-文字對齊)：調整文字排版的常用寫法
+    - 1.2 [text-文字樣式](#12-text-文字樣式)：調整文字顏色、字型樣式、字體大小的寫法
+    - 1.3 [border-邊框樣式](13-border-邊框樣式)：調整邊框顏色、線條粗細、陰影、隱藏等等
+    
+        - 1.2.1
+
+
+## 1.1 text 文字對齊
 <pre><code>
 text-align: justify                  //左右對齊 
 text-align: center                   //水平置中 
@@ -11,7 +22,7 @@ vertical-align: middle               //垂直置中
 line-height: 50px                    //與height相等，垂直置中 
 letter-spacing: 1px                  //字元間距 
 </code></pre>
-## 1.2 text 文字樣式：調整文字顏色、字型樣式、字體大小的寫法
+## 1.2 text 文字樣式
 <pre><code>
 color: red                           //字體和框線顏色同時改變 
 font-family: 微軟正黑體               //可下載google font字體
@@ -29,3 +40,5 @@ overflow: hidden                     //除物件本體之外的多於區塊皆�
 box-shadow: inset X Y 1px color      //inset為向內發展，X軸Y軸為偏移量、模糊程度、背景顏色  
 </code></pre>
 ## 3.1 無順序的清單
+### Github標題1
+### 標題3
